@@ -1,0 +1,10 @@
+.properties {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.properties div {
+  display: flex;
+  flex-direction: column;
+}
